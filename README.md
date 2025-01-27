@@ -1,16 +1,10 @@
-# myapp
+# myapp-gabriel-jogo-da-velha
 
-A new Flutter project.
+Projeto Fluttler
 
-## Getting Started
+Utilizando o project IDX com o software Fluttler apliquei meus conhecimentos obtido
+nas aulas do Talento Tech, programando um clássico jogo da velha.
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Para jogar é possivel escolher o modo "contra o computador" ou "contra outro humano" que
+esteja no local jogando com o executor do programa. Para isso é apenas necessario acionar
+a caixa locatizada na esquerda superior.
